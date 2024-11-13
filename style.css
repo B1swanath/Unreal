@@ -76,11 +76,14 @@ body{
     margin-bottom: 30px;
 }
 
+.vid-main{
+    border-radius: 25px;  
+}
 
 /* content-1 */
 
 .content-1{
-    color: white;
+    color: white; 
 }
 
 .content-1 h2{
@@ -97,6 +100,10 @@ body{
     color: white;
 }
 
+.content-2 img{
+    border-radius: 25px;
+}
+
 /* content-3 */
 
 .content-3{
@@ -104,6 +111,10 @@ body{
 }
 
 /* IMAGE-CONTENT */
+
+.content-3 img{
+    border-radius: 25px;
+}
 
 /* FOOTER */
 
